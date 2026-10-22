@@ -28,7 +28,7 @@ This repo contains no real institutional data. Only synthetic or fully de-identi
 
 ## License
 
-GPL-3.0
+See [LICENSE](LICENSE)
 
 ## Contributors
 
