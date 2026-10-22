@@ -1,6 +1,6 @@
 # ra-doc-workflows
 
-Document-processing workflows for research administration. They extract structured metadata from the varied documents that research administrators handle, such as award notices, proposal attachments, and sponsor-specific templates.
+Document-processing workflows for research administration. The worklows extract structured metadata from the varied documents that research administrators handle, such as award notices, proposal attachments, and sponsor-specific templates.
 
 The workflows run on [Vandalizer](https://github.com/ui-insight/vandalizer), the open-source document extraction platform developed by the University of Idaho's AI4RA team. They are designed for Cornell's research administration system (RASS) but written to be reusable at other institutions.
 
